@@ -1,0 +1,1 @@
+Foi gerado um novo arquivo, em formato txt, a fim de testar as funcionalidades de "commit" e "push". Tal arquivo foi inserido no reposítorio local e, posteriormente, incluído no repositório remoto.
