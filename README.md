@@ -4,7 +4,8 @@ __Desafio de projeto sobre Git/Github_
 
     Trata-se, o presente trabalho, da criação de um repositório no Github.
 
-<img title="" src="Imagem - Github.webp" alt="" data-align="center">                               Fonte: Iugu (4devs/), 2021[^1].
+<img title="" src="Imagem - Github.webp" alt="" data-align="center">
+Fonte: Iugu (4devs/), 2021[^1].
 
     
 
