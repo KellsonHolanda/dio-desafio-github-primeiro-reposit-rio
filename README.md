@@ -5,7 +5,7 @@ __Desafio de projeto sobre Git/Github_
     Trata-se, o presente trabalho, da criação de um repositório no Github.
 
 <img title="" src="Imagem - Github.webp" alt="" data-align="center">
-Fonte: Iugu (4devs/), 2021[^1].
+Fonte: Iugu (4devs/), 2021¹.
 
     
 
@@ -19,4 +19,4 @@ Fonte: Iugu (4devs/), 2021[^1].
 
 ___________________________________________
 
-[^1] Fonte da imagem: IUGU(4devs/). O que é GitHub e qual sua importância para a programação?. Disponível em: https://www.iugu.com/iugu4devs/blog/github. Acesso em: 02 nov. 2022.
+¹ Fonte da imagem: IUGU(4devs/). O que é GitHub e qual sua importância para a programação?. Disponível em: https://www.iugu.com/iugu4devs/blog/github. Acesso em: 02 nov. 2022.
